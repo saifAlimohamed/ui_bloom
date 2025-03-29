@@ -1,6 +1,8 @@
 name: ui_bloom
 description: A Flutter library for beautiful, ready-to-use UI components like BloomButton and more. 🌸
 version: 1.0.0
+homepage: https://github.com/saifAlimohamed/
+repository: https://github.com/saifAlimohamed/ui_bloom.git
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
