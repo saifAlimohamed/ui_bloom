@@ -1,0 +1,17 @@
+name: ui_bloom
+description: A Flutter library for beautiful, ready-to-use UI components like BloomButton and more. 🌸
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter  # ضروري لمكتبات Flutter
+
+dev_dependencies:
+  lints: ^5.0.0    # لإجراءات التحليل (analysis)
+  test: ^1.24.0    # للاختبارات
+  flutter_test:     # اختبارات Flutter (يضاف تلقائيًا مع Flutter)
+    sdk: flutter
